@@ -1,6 +1,6 @@
 Voron Trident Pressfit inserts sets (all sizes)
 
-![alt text] (https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/20230224_220700.jpg)
+https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/20230224_220700.jpg?raw=true
 
 https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/20230224_220851.jpg
 
