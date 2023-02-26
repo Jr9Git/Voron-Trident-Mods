@@ -3,7 +3,7 @@
 
 ![This is an image](https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/Trident%20%20Inserts%20Final.png)
 
-![This is an image](https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/grills_inserts.png)
+![This is an image](https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/grills_insert.png)
 
 ![This is an image](https://github.com/Jr9Git/Voron-Trident-Mods/blob/main/Trident%20Skirts%20Inserts/Images/20230224_220700.jpg)
 
